@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1" tvg-logo="",CCTV-1
-http://58.35.70.169:10055/live/cctv01/hls.m3u8
+http://125.125.198.173:8881/rtp/233.50.201.118:5140
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-2" tvg-logo="",CCTV-2
 http://125.125.198.173:8881/rtp/233.50.201.119:5140
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-3" tvg-logo="",CCTV-3
@@ -82,5 +82,10 @@ https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=115fcb6d1714188010
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=6cb638511714182110
 #EXTINF:-1 group-title="卫视台" tvg-id="三沙卫视" tvg-logo="",三沙卫视
 https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=1afdd08e1714186476
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="民视新闻HD",民视新闻HD
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="民视新闻HD",民视新闻HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="中天新闻",中天新闻
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",寰宇新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
