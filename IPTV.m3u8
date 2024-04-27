@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1" tvg-logo="",CCTV-1
 http://222.137.229.88:808/hls/1/index.m3u8
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-4" tvg-logo="",CCTV-4 中文国际
 https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/a1_index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-4k" tvg-logo="",CCTV-4K 高清
