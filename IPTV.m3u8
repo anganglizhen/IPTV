@@ -7,14 +7,14 @@ https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574302.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-8" tvg-logo="",CCTV-8 电视剧
 http://183.196.25.171:808/hls/77/index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-9" tvg-logo="",CCTV-9
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-99" tvg-logo="",CCTV-9
 http://58.35.70.169:10055/live/cctv09/hls.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-10" tvg-logo="",CCTV-10 科教
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573002.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-11" tvg-logo="",CCTV-11 戏曲
 http://183.196.25.171:808/hls/11/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-x" tvg-logo="",CCTV-13
-CCTV13,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
+http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-15" tvg-logo="",CCTV-15 音乐
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575502.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-16" tvg-logo="",CCTV-16 4K
