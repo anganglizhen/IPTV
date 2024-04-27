@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="CCTV" tvg-id="湖南爱晚" tvg-logo=",CCTV13
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV1" tvg-logo=",CCTV13
 http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
