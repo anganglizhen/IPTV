@@ -7,20 +7,21 @@ https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574302.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-8" tvg-logo="",CCTV-8 电视剧
 http://183.196.25.171:808/hls/77/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-9" tvg-logo="",CCTV-9
+http://58.35.70.169:10055/live/cctv09/hls.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-10" tvg-logo="",CCTV-10 科教
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573002.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-11" tvg-logo="",CCTV-11 戏曲
 http://183.196.25.171:808/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-x" tvg-logo="",CCTV-13
+CCTV13,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-15" tvg-logo="",CCTV-15 音乐
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575502.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-16" tvg-logo="",CCTV-16 4K
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575402.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-17" tvg-logo="",CCTV-17 农业农村
 http://183.196.25.171:808/hls/93/index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CGTN" tvg-logo="",CGNT 记录频道
-http://player.200877926.top/169l/vjs/?id=https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CGTN-News" tvg-logo="",CGNT 新闻频道
-http://player.200877926.top/169l/vjs/?id=http://live.cgtn.com/1000/prog_index.m3u8
+
 #EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="",浙江卫视
 https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1714178218-6521cda6defcc9346dc4c9a168989343-0-d762f35ddbbf03a726f87fe207e0d3a8
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰资讯" tvg-logo="",凤凰资讯
