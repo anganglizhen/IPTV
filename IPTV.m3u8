@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1" tvg-logo="",CCTV-1
-http://125.125.198.173:8881/rtp/233.50.201.118:5140
+http://58.35.70.169:10055/live/cctv01/hls.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-2" tvg-logo="",CCTV-2
 http://125.125.198.173:8881/rtp/233.50.201.119:5140
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-3" tvg-logo="",CCTV-3
