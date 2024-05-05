@@ -141,8 +141,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",信大
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",DW NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道10 
@@ -161,22 +159,16 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",CCTV4 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道21 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",凤凰卫视咨询
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",新唐人亚太台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",ABC NEWS美国
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",台视新闻HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道26 台湾
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道29 日本
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",大爱
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",TVBS新闻2
@@ -191,7 +183,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道37 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",环宇新闻 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",寰宇新闻 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",中视 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
@@ -199,16 +191,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",大爱2 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",ANN NEW日本
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",中天新闻2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",韩国 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",CNA美国
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",日本
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",美好2台 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",美好2台 
@@ -217,12 +201,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",国会频道2 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",123GO 美国 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道59 NEWS美国
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道62 日本
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道63 少儿台湾
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道64 少儿
@@ -231,47 +209,28 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道66 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道67 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道67 少儿国外1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道68 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道68 少儿国外2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道69 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道70 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道71 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",中视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道72 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道73 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",台湾
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道74 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道75 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",八大电视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道76 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",台湾
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道77 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道78 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",台湾探索
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道79 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道80 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道81 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道82 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",TVBS新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道83 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",TVBS新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道84 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道85 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",寰宇财经台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道86 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道87 
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",中天新闻2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道911 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV911.m3u8
+
