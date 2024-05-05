@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1" tvg-logo="",CCTV-1
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-2" tvg-logo="",CCTV-2
 http://125.125.198.173:8881/rtp/233.50.201.119:5140
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-3" tvg-logo="",CCTV-3
