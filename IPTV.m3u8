@@ -119,21 +119,23 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 group-title="CETV"  tvg-id="cetv3" tvg-logo="cetv3.png",CETV-3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-#EXTINF:-1  group-title="CETV" tvg-id="cetv4" tvg-logo="cetv4.png",CETV-4
+#EXTINF:-1 group-title="CETV" tvg-id="cetv4" tvg-logo="cetv4.png",CETV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
-#EXTINF:-1 tvg-id="fhzw" tvg-logo="" group-title="国际",凤凰卫视中文
-https://iptv.jmsooo.com/live/fhzw/fhwszw.m3u8
-#EXTINF:-1 tvg-id="fhzx" tvg-logo="" group-title="国际",凤凰卫视资讯
-https://iptv.jmsooo.com/live/fhzx/fhwszx.m3u8
-#EXTINF:-1 tvg-id="fhwsxg" tvg-logo="" group-title="国际",凤凰卫视香港
-https://iptv.jmsooo.com/live/fhwsxg/fhwsxg.m3u8
-#EXTINF:-1 tvg-id="amlh" tvg-logo="" group-title="国际",澳门莲花
-https://iptv.jmsooo.com/live/amlh/amlh.m3u8
-#EXTINF:-1 tvg-id="aljazal" tvg-logo="" group-title="国际",卡塔尔半岛电视台-阿语
-https://iptv.jmsooo.com/live/aljazal/index.m3u8
-#EXTINF:-1 tvg-id="aljazen" tvg-logo="" group-title="国际",卡塔尔半岛电视台-英语
-https://iptv.jmsooo.com/live/aljazen/index.m3u8
+#EXTINF:-1  group-title="香港" tvg-id="" tvg-name="凤凰中文" tvg-logo="",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1  group-title="香港" tvg-id="" tvg-name="凤凰中文" tvg-logo="",凤凰中文
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#EXTINF:-1  group-title="香港" tvg-id="" tvg-name="凤凰资讯" tvg-logo="",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1  group-title="香港" tvg-id="" tvg-name="凤凰资讯" tvg-logo="",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1  group-title="香港" tvg-id="" tvg-name="凤凰资讯" tvg-logo="",凤凰资讯
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 group-title="香港" tvg-id="" tvg-name="香港卫视1" tvg-logo="",香港卫视1
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-id="" tvg-name="香港卫视2" tvg-logo=",香港卫视2
+https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
