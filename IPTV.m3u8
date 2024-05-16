@@ -122,13 +122,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 group-title="CETV" tvg-id="cetv4" tvg-logo="cetv4.png",CETV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
-
-
 #EXTINF:-1  group-title="香港" tvg-id="" tvg-logo="",凤凰卫视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",凤凰卫视咨询
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
