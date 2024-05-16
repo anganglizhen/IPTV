@@ -146,8 +146,10 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",华视
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",華視戲劇頻道
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",中天亞洲台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",民视新闻台HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",东森购物
@@ -186,25 +188,25 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",国会频道2 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道63 少儿台湾
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道63 YOYO TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道64 少儿
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道64 小猪佩奇
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道65 少儿2
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道65 Talking Tom
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道67 少儿国外1
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道67 Dave and Ava
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道68 少儿国外2
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",频道68 Tayo the Little Bus
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",中视
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",大陸尋奇
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",台湾
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",豬哥會社
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",八大电视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",台湾
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",民視戲劇館
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",台湾探索
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
@@ -216,4 +218,3 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="",中天新闻2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
-
